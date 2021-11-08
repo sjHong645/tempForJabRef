@@ -17,6 +17,7 @@ Library properties에 대해서만 신경쓰자. Import and Export와는 다른 
 1. https://github.com/sponbob-pat/jabref/pull/3/files - 해당 부분의 코드를 수정함으로써 library properties에 있는 save sort order를 저장할 때 마다 버튼이 바뀌는 상황은 사라짐.
 
 ==> 하지만, 기본 설정이 Use spcefied order가 됨. 
+
 ==> 왜 이렇게 되는지를 알아내야 함
 
 
